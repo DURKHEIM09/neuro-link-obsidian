@@ -1,0 +1,11 @@
+.obsidian/
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db

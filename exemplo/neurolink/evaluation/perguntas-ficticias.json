@@ -1,0 +1,26 @@
+{
+  "format": "biblioteca-demo-v1",
+  "kind": "synthetic-evaluation-cases",
+  "synthetic": true,
+  "excluded_from_catalog": true,
+  "cases": [
+    {
+      "id": "promocao-demo-01",
+      "query": "Quando uma nota da BibliotecaDemo pode ser promovida?",
+      "expected_uri": "demo://curadoria/politica",
+      "expected_section_id": "promover-conhecimento",
+      "expected_section_title": "Promover conhecimento",
+      "answer_source_path": "collections/Politica-Curadoria-Demo.md",
+      "answer_expected": "Quando a pessoa responsável confirma origem, verifica duplicidade, validade e sensibilidade e registra a data e o estado da decisão. Uma revisão incompleta mantém a nota como candidata."
+    },
+    {
+      "id": "privacidade-demo-02",
+      "query": "O que fazer se uma nota candidata contiver credenciais?",
+      "expected_uri": "demo://curadoria/politica",
+      "expected_section_id": "tratar-dados-privados",
+      "expected_section_title": "Tratar dados privados",
+      "answer_source_path": "collections/Politica-Curadoria-Demo.md",
+      "answer_expected": "Manter a nota fora da coleção de consulta, preparar uma versão apropriada para compartilhamento e repetir a revisão antes de promover."
+    }
+  ]
+}

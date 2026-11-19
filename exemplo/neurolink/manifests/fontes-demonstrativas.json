@@ -1,0 +1,16 @@
+{
+  "format": "biblioteca-demo-v1",
+  "kind": "synthetic-source-manifest",
+  "hash_algorithm": "sha256",
+  "path_base": "exemplo/neurolink/",
+  "sources": [
+    {
+      "source_uri": "demo://curadoria/politica",
+      "source_path": "collections/Politica-Curadoria-Demo.md",
+      "bytes": 1271,
+      "sha256": "5a20b0584e788e428d3d3a77044aff0f861598755211a20f04ba48b4e4b0c1f4",
+      "origin": "created-for-this-demonstration",
+      "synthetic": true
+    }
+  ]
+}

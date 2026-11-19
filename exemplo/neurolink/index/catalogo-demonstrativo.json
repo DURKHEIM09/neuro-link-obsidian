@@ -1,0 +1,40 @@
+{
+  "format": "biblioteca-demo-v1",
+  "kind": "illustrative-section-catalog",
+  "synthetic": true,
+  "executable_search_engine": false,
+  "corpus_roots": [
+    "collections/"
+  ],
+  "records": [
+    {
+      "source_uri": "demo://curadoria/politica",
+      "source_path": "collections/Politica-Curadoria-Demo.md",
+      "source_sha256": "5a20b0584e788e428d3d3a77044aff0f861598755211a20f04ba48b4e4b0c1f4",
+      "document_title": "Política de curadoria — BibliotecaDemo",
+      "section_id": "promover-conhecimento",
+      "section_title": "Promover conhecimento",
+      "terms": [
+        "curadoria",
+        "origem",
+        "validade",
+        "duplicidade",
+        "promocao"
+      ]
+    },
+    {
+      "source_uri": "demo://curadoria/politica",
+      "source_path": "collections/Politica-Curadoria-Demo.md",
+      "source_sha256": "5a20b0584e788e428d3d3a77044aff0f861598755211a20f04ba48b4e4b0c1f4",
+      "document_title": "Política de curadoria — BibliotecaDemo",
+      "section_id": "tratar-dados-privados",
+      "section_title": "Tratar dados privados",
+      "terms": [
+        "credenciais",
+        "privacidade",
+        "revisao",
+        "fontes-aprovadas"
+      ]
+    }
+  ]
+}
